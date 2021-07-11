@@ -53,7 +53,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #d62828; /*#f77f00*/
+  background-color: #d62828;
   color: #fff;
   /*box-shadow: 0 0 5px #d62828, 0 0 5px #d62828;*/
 }
