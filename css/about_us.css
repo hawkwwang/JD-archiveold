@@ -691,12 +691,19 @@
 .news-content-subtit {
   font-size: 14px;
   color: #333;
+  text-decoration: none;
 }
 .news-content-detail {
   color: #d62828;
 }
 .hr1 {
   width: 1100px;
+}
+.maincontent {
+  width: 800px;
+  margin: 100px 300px;
+  padding: 50px;
+  border: solid 1px #333;
 }
 /*solution03*/
 .partner {
